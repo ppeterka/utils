@@ -6,4 +6,5 @@ Also, all this is only provided as-is - all responsibilities are on those using 
 ##What's in here?
 ###PHP stuff
  * unzipit.php: extracts all files from an archive named "g.zip" in the given folder. Useful for quick deploying of CMS systems - no need to wait for all files to be uploaded...
+ * listfiles.php: Lists all files in the given directory tree, with full path, size and last modification time
 
